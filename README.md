@@ -17,7 +17,7 @@ Frontend de la plataforma Hecoto desarrollado con React 18 y TypeScript, con aut
 
 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-organizacion/hecoto-frontend.git
+git clone https://github.com/santiago-morfe/hecoto_frontend
 cd hecoto-frontend
 ```
 
@@ -29,7 +29,6 @@ npm install
 3. Configurar variables de entorno
 ```env
 VITE_API_BASE_URL=http://localhost:5000/api
-VITE_JWT_SECRET_KEY=tu_clave_secreta_local
 ```
 
 4. Iniciar servidor de desarrollo
